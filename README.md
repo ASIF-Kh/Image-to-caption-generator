@@ -1,4 +1,4 @@
-# Image-to-Caption Generator using TensorFlow
+# Image-to-Description Generator using TensorFlow
 
 
 
